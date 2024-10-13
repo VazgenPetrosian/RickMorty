@@ -1,0 +1,9 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+@import url(./vendor/normalize.css);
+@import url(./vendor/interfonts.css);
+body {
+  background-color: rgba(0, 0, 0, 0.9);
+  font-family: "Inter", "Arial", sans-serif;
+}
